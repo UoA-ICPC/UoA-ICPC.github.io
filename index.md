@@ -1,6 +1,7 @@
-## UoA Mainpage for ACMICPC 
+# UoA Mainpage for ACMICPC 
 
-### Training Sessions
+## Training Sessions
 
-	-27/03/2020 
-	<video src="zoom/27032020.mp4" width="320" height="200" controls preload></video>
+###27/03/2020 
+	-[slides](https://docs.google.com/presentation/d/1XnewpTwGtV5ke47nnsprFH9EnQiow5rjRJhOI1PHdJE/edit?usp=sharing)
+	-[video](./zoom/27032020.mp4)
