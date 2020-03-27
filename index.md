@@ -8,10 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Coaching Sessions
+
+#Coaching Sessions
 ## 27/03/2020
 ### [zoom](./zoom/27032020.mp4)
 
