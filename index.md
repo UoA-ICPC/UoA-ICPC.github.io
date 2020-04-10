@@ -13,3 +13,8 @@
 -[slides](./slides/C_with_STL.pdf)
 
 -[video](./zoom/03042020.mp4)
+
+### 03/04/2020 C++ Part 2
+
+-[video](./zoom/10042020.mp4)
+
