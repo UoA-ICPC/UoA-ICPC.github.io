@@ -1,4 +1,4 @@
-# UoA Mainpage for ACMICPC 
+# UoA Mainpage for ICPC
 
 ## Training Sessions
 
