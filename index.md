@@ -24,7 +24,7 @@
 
 -[video](./zoom/17042020.mp4)
 
-### 24/04/2020 Sort and Search
+### 24/04/2020 Dynamic Programming
 
 -[slides](./slides/UoA_CP_Lecture_4__Dynamic_Programming.pdf)
 
