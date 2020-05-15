@@ -29,10 +29,10 @@
 
 ### 08/05/2020 
 
-- [slides](./slides/UoA_CP_Lecture_5_Intro_to_Graph.pdf)
+- [slides](./slides/UoA CP Lecture 5&6 Intro to graph.pdf)
 - [video](./zoom/08052020.mp4)
 
 ### 15/05/2020 
 
-- [slides](./slides/UoA_CP_Lecture_5_Intro_to_Graph.pdf)
+- [slides](./slides/UoA CP Lecture 5&6 Intro to graph.pdf)
 - [video](./zoom/15052020.mp4)
