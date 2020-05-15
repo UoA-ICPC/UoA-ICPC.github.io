@@ -26,3 +26,13 @@
 
 - [slides](./slides/UoA_CP_Lecture_4__Dynamic_Programming.pdf)
 - [video](./zoom/24042020.mp4)
+
+### 08/05/2020 
+
+- [slides](./slides/UoA_CP_Lecture_5_Intro_to_Graph.pdf)
+- [video](./zoom/08052020.mp4)
+
+### 15/05/2020 
+
+- [slides](./slides/UoA_CP_Lecture_5_Intro_to_Graph.pdf)
+- [video](./zoom/15052020.mp4)
