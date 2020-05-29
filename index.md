@@ -36,3 +36,8 @@
 
 - [slides](./slides/UoA_CP_Lecture_5_Intro_to_Graph.pdf)
 - [video](./zoom/15052020.mp4)
+
+### 29/05/2020 
+
+- [slides](./slides/???)
+- [video](./zoom/29052020.mp4)
