@@ -39,5 +39,5 @@
 
 ### 29/05/2020 
 
-- [slides](./slides/???)
+- [slides](./slides/UoA CP Lecture 7 NT.pdf)
 - [video](./zoom/29052020.mp4)
