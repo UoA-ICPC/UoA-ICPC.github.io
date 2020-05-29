@@ -37,7 +37,7 @@
 - [slides](./slides/UoA CP Lecture 5&6 Intro to graph.pdf)
 - [video](./zoom/15052020.mp4)
 
-### 29/05/2020 
+### 29/05/2020 Number Theory
 
-- [slides](./slides/UoA CP Lecture 7 NT.pdf)
+- [slides](./slides/UoA CP Lecture 7 Number Theory.pdf)
 - [video](./zoom/29052020.mp4)
