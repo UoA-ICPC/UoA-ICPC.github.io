@@ -41,3 +41,8 @@
 
 - [slides](./slides/UoA CP Lecture 7 Number Theory.pdf)
 - [video](./zoom/29052020.mp4)
+
+### 02/08/2020 DP
+
+- [video](./zoom/02082020.mp4)
+
