@@ -46,3 +46,7 @@
 
 - [video](./zoom/02082020.mp4)
 
+### 09/08/2020 Leetcode
+
+- [video](./zoom/09082020.mp4)
+
